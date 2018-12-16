@@ -377,9 +377,8 @@ footer p1 {
     
     
     .mainbox {
-        width: 400px;
-        margin-left: 10px;
-        margin-right: 10px;
+        width: 375px;
+       margin: 0 auto;
        
 
     }
